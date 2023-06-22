@@ -1,0 +1,13 @@
+.action{
+    display: grid;
+    width: 150;
+    margin: 10px;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+}
+button{
+    padding:6px;
+    border-radius: 10px;
+}
